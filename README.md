@@ -30,7 +30,7 @@ Install Nginx reverse proxy to make this application available
 `sudo apt install nginx`
 
 
-##Install Jenkins on ubuntu
+## Install Jenkins on ubuntu
 Just run this code step by step it will 
 
 sudo apt update
